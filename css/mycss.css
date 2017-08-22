@@ -1,0 +1,23 @@
+* {
+  border-radius: 0 !important;
+}
+
+body{
+    
+    font-family: Muli;
+    
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 75px;
+    height: 75px;
+    padding-top: 0;
+}
+
+ a:hover{text-decoration: none !important}
+a{text-decoration: none !important}
+          
+.panel-heading {
+    cursor: pointer;
+}
